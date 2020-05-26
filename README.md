@@ -68,6 +68,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify-Formbase](https://github.com/wotamann/vuetify-form-base) - Formular Generator based on Vuetify 🌟
 - [ShipIT](https://github.com/18chetanpatel/shipit) - Free E-Commerce Website Theme
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vuetify 2.2 + Vue 2.6
+- [Ambianic.ai](https://ambianic.ai) - PWA connected to Edge device providing privacy preserving home surveilance. Used for remote home care during COVID19.
 
 ### Showcases
 - [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify

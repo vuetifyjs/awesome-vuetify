@@ -85,6 +85,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
 - [diskotek.tv](https://diskotek.tv) - Diskotek - Software and Advertising Agency.
 - [awesometechstack.com](https://awesometechstack.com) - Free website technology stack analyzer, technology trends and rating created with Vue + Vuetify + Nuxt
+- [U Can Stock](https://www.ucanstock.com) - U.S. stock market information platform for Korean. It's built with Vue, Vuex, Vuetify, Nuxt and Firebase.
 
 ## Contribute
 

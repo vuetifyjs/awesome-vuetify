@@ -83,6 +83,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [eldin.space](https://eldin.space) - Personal website
 - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
 - [awesometechstack.com](https://awesometechstack.com) - Free website technology stack analyzer, technology trends and rating created with Vue + Vuetify + Nuxt
+- [shortcutexpert.com](https://shortcutexpert.com) - A platform for all application shortcuts builf with Vue + Vuetify + Gridsome + Netlify. Completely Open Source.
 
 ## Contribute
 

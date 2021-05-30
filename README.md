@@ -71,6 +71,9 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [EBMSoft Template](https://github.com/ebrahimMaher/ebmsoft-template) - Software Company Profile Template built using Vue.js and Vuetify
 - [IdeaHub](https://github.com/MakeContributions/ideahub) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
 
+### Libraries
+- [vuetify-datatable-extended](https://github.com/benwinding/vuetify-datatable-extended) - Extended features for the `<v-datatable>` component (search, filters, etc..) 
+
 ### Showcases
 - [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify
 - [🐮Integrity Livestock Sales](https://www.integritylivestocksales.com/) - Live Auction Listings Site (Vuetify + Nuxt)

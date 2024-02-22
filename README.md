@@ -72,6 +72,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify Imge Input](https://github.com/SeregPie/VuetifyImageInput) - Image editor as a component
 - [Vuetify JsonSchema Form](https://github.com/koumoul-dev/vuetify-jsonschema-form) - Create dynamic Vuetify form from JsonSchema
 - [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
+- [@qnx/vuetify](https://github.com/yatendra121/vq-vuetify) - An extendable library of Vuetify components.
 
 #### 💡 Example projects <a name="examples-v2"></a>
 
